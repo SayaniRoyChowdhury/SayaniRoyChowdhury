@@ -17,7 +17,7 @@
  ### Hi there 👋 
  ### :woman_technologist: About Me:
   
-   I am an aspiring Data Scientist.
+   I am an aspiring Software Developer.
 
 
 - 🔭 I’m currently working in Tata Consultancy Services as an Oracle ERP Developer
