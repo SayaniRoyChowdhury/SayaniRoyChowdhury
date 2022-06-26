@@ -21,7 +21,8 @@
 
 
 - 🔭 I’m currently working in Tata Consultancy Services as an Oracle ERP Developer
-- 🌱 Exploring Data Cleaning, Data Mining, ML and AI.
+- 🌱 Exploring HTML, CSS, Javascript, Java and Python.
+- 😄 Experience in SQL and Data Mining
 - ⚡ In my free time, I solve problems in HackerRank and write non-technical articles.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sayani-roy-chowdhury/)
 
