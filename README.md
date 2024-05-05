@@ -17,7 +17,7 @@
  ### Hi there 👋 
  ### :woman_technologist: About Me:
   
-   I am an aspiring Software Developer.
+   I am an aspiring Data Scientist.
 
 
 - 🔭 I’m currently working in Tata Consultancy Services as a Data Analyst.
